@@ -7,9 +7,9 @@
 ### What is the goal? How is it being implemented?
 [help]: # (Provide a description of the overall goal and a description of the implementation.)
 
-### How can it be tested?
-[help]: # (Provide a description of how can it be tested.)
-Automated tests
+### How was it tested?
+[help]: # (Provide a description of how the feature has been tested by the developer.)
+-
 
 ### How can it be monitored?
 [help]: # (How it is going to be monitored in Heroku, Sentry.io)
